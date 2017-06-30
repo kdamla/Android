@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="gezegenler">
+        <item>Merkür</item>
+        <item>Venüs</item>
+        <item>Dünya</item>
+        <item>Mars</item>
+        <item>Jüpiter</item>
+        <item>Satürn</item>
+        <item>Uranüs</item>
+        <item>Neptün</item>
+        <item>Plüton</item>
+        <item>Diğer</item>
+    </string-array>
+
+</resources>
