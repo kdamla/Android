@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MenuDuzenleme</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="ad">Ad</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="sayfa2">Sayfa2</string>
+    <string name="geriDon">Geri Dön</string>
+    <string name="menu2">Menü 2</string>
+
+</resources>
