@@ -14,7 +14,7 @@ public class Gezegenler extends ListActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.gezegenler);
+		//setContentView(R.layout.gezegenler);
 
 		// Listview oluþturma
 		String[] gezegenler = getResources().getStringArray(R.array.gezegenler);
@@ -22,7 +22,6 @@ public class Gezegenler extends ListActivity {
 
 		// Liste elemanýna týklama
 		ListView lv = getListView();
-		lv.setId(android.R.id.list);
 		lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 
 			@Override
@@ -34,5 +33,4 @@ public class Gezegenler extends ListActivity {
 			}
 		});
 	}
-
 }

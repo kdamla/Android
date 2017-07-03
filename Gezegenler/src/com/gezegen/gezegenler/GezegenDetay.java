@@ -12,7 +12,7 @@ public class GezegenDetay extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		//setContentView(R.id.tvDetay);
+		setContentView(R.layout.gezegen_detay);
 
 		TextView tvGezegenAdi = (TextView) findViewById(R.id.tvGezegenAdi);
 		TextView tvGezegenDetay = (TextView) findViewById(R.id.tvDetay);
